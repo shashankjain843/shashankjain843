@@ -6,3 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+# Ignore everything by default
+*
+
+# ...except these
+!.gitignore
+!README.md
