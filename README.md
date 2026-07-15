@@ -1,97 +1,125 @@
 <div align="center">
 
 # Shashank Jain 👋
-### Data Analyst | Data Science Engineer
+### **Data Scientist | Data Analyst**
+
+*Bridging the gap between raw data complexity and profitable business action.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankjain)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashankjain843)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realshashankjain@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91--7878927128-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+917878927128)
 
+---
+
+### 🚀 **Key Impact Metrics**
+| Data Volume Processed | Data Quality Engineering | Predictive Performance | BI Report Optimization |
+| :---: | :---: | :---: | :---: |
+| **100k+ Transactions** | **+25% Quality Gain** | **84.2% ROC-AUC Accuracy** | **-30% Manual Cycle Time** |
+
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 **Professional Summary**
 
-Data Analyst with hands-on experience in **data cleaning, exploratory analysis, predictive modeling, and dashboard development** using Python, SQL, and visualization tools. Skilled in translating complex datasets into actionable business insights through certified programs and real-world project work. Passionate about leveraging data-driven approaches to optimize operations, improve user experiences, and drive gross margin performance.
+I am a highly driven **Data Scientist and Data Analyst** with a strong foundation in **Data Science Engineering**. I specialize in managing entire data lifecycles—from building robust ETL pipelines and running exploratory data analysis (EDA) to deploying machine learning models and crafting high-fidelity dashboards. 
 
----
-
-## 🛠️ Technical Skill Set
-
-### 💻 Programming & Databases
-* **Languages:** Python, SQL
-* **Databases:** PostgreSQL, SQLite, MongoDB, SQL Server
-
-### 📊 Data Analysis & Visualization
-* **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, SciPy
-* **Visualization Tools:** Power BI, Tableau, Streamlit Dashboards
-* **Core Methodologies:** Exploratory Data Analysis (EDA), ETL Pipeline Development, Cohort Analysis, RFM Segmentation, Survival Analysis, Predictive Modeling
-
-### 🔧 Tools & Frameworks
-* **AI & LLM Tech:** LangChain, RAG (Retrieval-Augmented Generation), FastAPI
-* **Development Environment:** Git, VS Code, Jupyter Notebook, SDLC Methodology
+I focus on **actionable analytics**: translating statistical outputs (like Holt's forecasting or survival curves) into concrete business insights that optimize operations, reduce overheads, and drive gross margin performance.
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ **Technical Skill Set**
+
+### 💻 **Languages & Relational Databases**
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; **Python** (Pandas, NumPy, Scikit-Learn, SciPy, Seaborn, Matplotlib)
+* ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) &nbsp; **SQL** (Complex queries, optimization, relational schema design)
+* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) &nbsp; **PostgreSQL** &nbsp;|&nbsp; ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) &nbsp; **SQLite** &nbsp;|&nbsp; ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) &nbsp; **SQL Server** &nbsp;|&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) &nbsp; **MongoDB**
+
+### 📊 **Data Science & Machine Learning**
+* **Methodologies:** Supervised & Unsupervised Machine Learning, Predictive Modeling, Survival Analysis (Clinical & Cohort), Time Series Forecasting (Holt's Linear Models)
+* **Statistical Methods:** Exploratory Data Analysis (EDA), ETL Pipeline Development, Cohort Analysis, RFM Customer Segmentation, Customer Lifetime Value (CLV)
+* **Frameworks:** ![XGBoost](https://img.shields.io/badge/XGBoost-2C8E47?style=flat-square&logo=micro-strategy&logoColor=white) XGBoost, Scikit-Learn
+
+### 📈 **Business Intelligence & Dashboards**
+* ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) &nbsp; **Power BI** (High-fidelity operational KPI dashboards, DAX queries)
+* ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) &nbsp; **Tableau** (Cohort analysis maps, customer retention visualization)
+* ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) &nbsp; **Streamlit** (Interactive predictive web apps, risk profilers)
+
+### 🔧 **Development & AI Technologies**
+* **AI Tech:** ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white) LangChain, Retrieval-Augmented Generation (RAG), ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) FastAPI
+* **Environments:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git/GitHub, VS Code, Jupyter Notebook, SDLC Methodologies
+
+---
+
+## 💼 **Professional Experience**
 
 ### **Data Analyst Intern**
 **Appic Software Development (On-Site)** | *June 2026 – Present*
-* **Exploratory Data Analysis:** Performed rigorous exploratory data analysis and preprocessing on large datasets consisting of **10,000+ records** using Pandas and NumPy.
-* **Data Quality Engineering:** Formulated and applied advanced data cleaning and transformation techniques, increasing overall dataset quality and structural reliability by **25%**.
-* **KPI Dashboard Creation:** Developed and deployed interactive, high-fidelity Power BI dashboards for real-time tracking of operational KPIs, reducing manual reporting cycles by **30%**.
+* 🔍 **Exploratory Data Analysis:** Performed rigorous exploratory data analysis and preprocessing on large datasets consisting of **10,000+ records** using Pandas and NumPy.
+* 🛠️ **Data Quality Engineering:** Formulated and applied advanced data cleaning and transformation techniques, increasing overall dataset quality and structural reliability by **25%**.
+* 📊 **KPI Dashboard Creation:** Developed and deployed interactive, high-fidelity Power BI dashboards for real-time tracking of operational KPIs, reducing manual reporting cycles by **30%**.
 
 ---
 
-## 📊 Featured Data Analytics Projects
+## 📊 **Featured Projects**
 
-### 📈 Sales & Revenue Performance Analysis
-*Built utilizing: Python, NumPy, SQLite, Streamlit, Seaborn, RFM Modeling*
-* **ETL Pipeline:** Built a robust Python-SQL ETL pipeline to process and sanitize **100k+ transaction records** in SQLite. Run YoY sales metrics and customer cohort retention models.
+### 📈 **Sales & Revenue Performance Analysis**
+*Custom ETL & Forecasting Platform*
+* **ETL Pipeline:** Built a robust Python-SQL ETL pipeline to process and sanitize **100k+ transaction records** in SQLite, facilitating YoY sales metrics and customer cohort retention models.
 * **Business Intelligence:** Implemented a **Holt’s linear forecasting model** (achieving a **31.6% MAPE**) and executed an **RFM (Recency, Frequency, Monetary) customer segmentation** to calculate customer lifetime value (CLV).
-* **Interactive Dashboard:** Designed and shipped an interactive Streamlit application that isolated a **30% discount tipping point**, projecting a **1.8% gross profit margin increase** upon execution.
+* **Business Value:** Designed and shipped an interactive Streamlit application that isolated a **30% discount tipping point**, projecting a **1.8% gross profit margin increase** upon execution.
+* *Tech Stack:* Python, NumPy, SQLite, Streamlit, Seaborn, RFM Modeling, Holt's Forecasting
 
-### 🏥 Healthcare Analytics Dashboard
-*Built utilizing: Python, Pandas, PostgreSQL, XGBoost, Streamlit, Survival Analysis*
-* **Readmission Risk Engine:** Architected a healthcare prediction pipeline estimating 30-day patient readmission risk by ingestion of clinical and demographic factors.
+### 🏥 **Healthcare Analytics & Risk Profiling Dashboard**
+*Clinical Prediction & Survival Analysis System*
+* **Readmission Risk Engine:** Architected a healthcare prediction pipeline estimating 30-day patient readmission risk by ingestion of clinical and demographic factors (achieved a **84.2% ROC-AUC** with XGBoost).
 * **Disease Forecasting:** Constructed a forecasting module to identify and visualize future geographic outbreak patterns by analyzing chronological historical trends.
-* **Survival Analysis Platform:** Developed a Streamlit analytics dashboard comparing therapeutic and treatment effectiveness across distinct patient segments using survival analysis models to guide clinical decision-making.
+* **Survival Analysis:** Developed a Streamlit analytics dashboard comparing treatment effectiveness across 12 distinct patient segments using survival curves to guide clinical decision-making.
+* *Tech Stack:* Python, Pandas, PostgreSQL, XGBoost, Streamlit, Survival Analysis
 
 ---
 
-## 📜 Awards & Certifications
+## 📜 **Awards & Certifications**
 
-* 🏆 **Code Alpha Data Analytics Certificate (2025)**
-  * *Focus:* Deep-dive hands-on instruction in data cleaning, exploratory data analysis (EDA), and interactive visualization dashboards.
+* 🏆 **TCSion Data Analytics & Reporting Professional Certificate (2025)**
+  * *Focus:* Parsing high-volume structured/unstructured datasets and creating analytical business reporting models.
 * 🏆 **Deloitte Data Analysis Certificate (2025)**
   * *Focus:* Advanced curriculum targeting business problem-solving and structured analytics techniques on corporate operations.
-* 🏆 **TCSion Data Analytics & Reporting Professional Certificate (2025)**
-  * *Focus:* Mastery in parsing high-volume structured/unstructured datasets and creating analytical business reporting models.
+* 🏆 **Code Alpha Data Analytics Certificate (2025)**
+  * *Focus:* Deep-dive hands-on instruction in data cleaning, exploratory data analysis (EDA), and interactive visualization dashboards.
 
 ---
 
-## 🎓 Education
+## 🎓 **Education**
 
 ### **Bachelor's Degree in Data Science Engineering**
 **Teerthanker Mahaveer University, Moradabad** | *Class of 2026*
-* **Academic Record:** Cumulative Grade Point Average (CGPA) of **8.0 / 10.0**
-* **Core Coursework:** Machine Learning, Database Management Systems (DBMS), Advanced Applied Statistics, Big Data Analytics, Python Software Development
+* 📈 **Academic Record:** Cumulative Grade Point Average (CGPA) of **8.0 / 10.0**
+* 📚 **Core Coursework:** Machine Learning, Database Management Systems (DBMS), Advanced Applied Statistics, Big Data Analytics, Python Software Development
 
 ---
 
-## 💼 What I Offer to Your Team
+## 💼 **Recruitment Sandbox**
 
 ```python
 def recruit_shashank():
     candidate = {
-        "technical_stack": ["Python", "SQL", "Power BI", "Tableau", "PostgreSQL"],
-        "core_strengths": ["Actionable Insight Generation", "ETL Pipelines", "Predictive Modeling"],
-        "soft_skills": ["Team Collaboration", "Analytical Problem Solving", "Structured Communication"],
+        "roles": ["Data Scientist", "Data Analyst"],
+        "technical_stack": {
+            "programming": ["Python", "SQL"],
+            "databases": ["PostgreSQL", "SQLite", "MongoDB"],
+            "analytics_ml": ["XGBoost", "Scikit-Learn", "Survival Analysis", "Forecasting"],
+            "bi_tools": ["Power BI", "Tableau", "Streamlit"]
+        },
+        "core_strengths": [
+            "Actionable Insight Generation",
+            "End-to-End ETL Pipelines", 
+            "Predictive Modeling & ML"
+        ],
         "business_value": "Transforming unstructured raw data into clear, margin-driving decision paths."
     }
-    return f"Let's solve your data puzzles together! 📊"
+    return f"Let's solve your complex data puzzles together! 📊"
 
 print(recruit_shashank())
 ```
@@ -100,7 +128,7 @@ print(recruit_shashank())
 
 <div align="center">
 
-### 💬 Let's Discuss How I Can Impact Your Organization!
+### 💬 **Let's Discuss How I Can Impact Your Organization!**
 
 *"Data tells a story. I make sure it's a profitable one."*
 
