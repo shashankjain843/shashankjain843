@@ -5,8 +5,7 @@
 
 *Bridging the gap between mathematical deep learning modeling and strategic business intelligence.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankjain)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashankjain843)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-jain-a81a69218/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realshashankjain@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91--7878927128-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+917878927128)
 
@@ -125,7 +124,5 @@ I excel at **actionable insights**—whether it means optimizing gross margins b
 ### 💬 **Let's Discuss How I Can Impact Your Organization!**
 
 *"Data tells a story. I make sure it's a profitable one."*
-
-⭐ **Feel free to explore my GitHub repositories and star your favorites!**
 
 </div>
