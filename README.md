@@ -125,21 +125,21 @@ I excel at **actionable insights**—whether it means optimizing gross margins b
 def recruit_shashank():
     candidate = {
         "roles": ["Data Scientist", "Data Analyst"],
-        "technical_stack": {
-            "programming": ["Python", "SQL", "R"],
-            "deep_learning": ["TensorFlow", "PyTorch", "CNNs", "RNNs", "LSTMs"],
-            "machine_learning": ["XGBoost", "Scikit-Learn", "Regression", "Survival Analysis"],
-            "databases_cloud": ["PostgreSQL", "SQLite", "MongoDB", "GCP", "Hadoop"],
-            "bi_tools": ["Power BI", "Tableau", "Streamlit"]
+        "tech_stack": {
+            "code": ["Python", "SQL", "R"],
+            "deep_learning": ["TensorFlow", "PyTorch", "LSTMs"],
+            "ml_modeling": ["XGBoost", "Scikit-Learn", "Survival"],
+            "data_stores": ["Postgres", "SQLite", "MongoDB", "GCP"],
+            "bi_dashboards": ["Power BI", "Tableau", "Streamlit"]
         },
-        "core_strengths": [
+        "strengths": [
             "End-to-End ETL Pipelines", 
-            "Deep Learning & Advanced ML Modeling",
-            "Actionable Insights & Dynamic BI Dashboards"
+            "Deep Learning & ML Modeling",
+            "Actionable BI Insights"
         ],
-        "business_value": "Transforming unstructured raw data into clear, margin-driving decision paths."
+        "value": "Turning raw data into margin-driving decisions."
     }
-    return f"Let's solve your complex data puzzles together! 📊"
+    return "Let's solve your complex data puzzles together! 📊"
 
 print(recruit_shashank())
 ```
