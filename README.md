@@ -119,32 +119,6 @@ I excel at **actionable insights**—whether it means optimizing gross margins b
 
 ---
 
-## 💼 **Recruitment Sandbox**
-
-```python
-def recruit_shashank():
-    candidate = {
-        "roles": ["Data Scientist", "Data Analyst"],
-        "tech_stack": {
-            "code": ["Python", "SQL", "R"],
-            "deep_learning": ["TensorFlow", "PyTorch", "LSTMs"],
-            "ml_modeling": ["XGBoost", "Scikit-Learn", "Survival"],
-            "data_stores": ["Postgres", "SQLite", "MongoDB", "GCP"],
-            "bi_dashboards": ["Power BI", "Tableau", "Streamlit"]
-        },
-        "strengths": [
-            "End-to-End ETL Pipelines", 
-            "Deep Learning & ML Modeling",
-            "Actionable BI Insights"
-        ],
-        "value": "Turning raw data into margin-driving decisions."
-    }
-    return "Let's solve your complex data puzzles together! 📊"
-
-print(recruit_shashank())
-```
-
----
 
 <div align="center">
 
