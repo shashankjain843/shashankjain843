@@ -3,7 +3,7 @@
 # Shashank Jain 👋
 ### **Data Scientist | Data Analyst**
 
-*Bridging the gap between raw data complexity and profitable business action.*
+*Bridging the gap between mathematical deep learning modeling and strategic business intelligence.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankjain)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashankjain843)
@@ -13,9 +13,9 @@
 ---
 
 ### 🚀 **Key Impact Metrics**
-| Data Volume Processed | Data Quality Engineering | Predictive Performance | BI Report Optimization |
+| Data Volume Processed | Data Quality Engineering | Deep Learning Accuracy | BI Report Optimization |
 | :---: | :---: | :---: | :---: |
-| **100k+ Transactions** | **+25% Quality Gain** | **84.2% ROC-AUC Accuracy** | **-30% Manual Cycle Time** |
+| **200k+ Records** | **+25% Quality Gain** | **CNN-LSTM Sleep Stage Classification** | **-30% Reporting Cycle Time** |
 
 </div>
 
@@ -23,32 +23,33 @@
 
 ## 👨‍💻 **Professional Summary**
 
-I am a highly driven **Data Scientist and Data Analyst** with a strong foundation in **Data Science Engineering**. I specialize in managing entire data lifecycles—from building robust ETL pipelines and running exploratory data analysis (EDA) to deploying machine learning models and crafting high-fidelity dashboards. 
+I am a highly motivated **Data Scientist and Data Analyst** with a strong engineering background in **Data Science**. My expertise spans the entire data lifecycle: from building end-to-end ETL pipelines and conducting rigorous exploratory data analysis (EDA) to architecting deep learning models (CNN-LSTM), predictive classifiers (XGBoost), and high-fidelity business dashboards (Power BI, Streamlit).
 
-I focus on **actionable analytics**: translating statistical outputs (like Holt's forecasting or survival curves) into concrete business insights that optimize operations, reduce overheads, and drive gross margin performance.
+I excel at **actionable insights**—whether it means optimizing gross margins by isolating pricing tipping points, forecasting outbreak patterns, predicting salaries using regression tuning, or classifying sleep stages using biosignals.
 
 ---
 
 ## 🛠️ **Technical Skill Set**
 
 ### 💻 **Languages & Relational Databases**
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; **Python** (Pandas, NumPy, Scikit-Learn, SciPy, Seaborn, Matplotlib)
-* ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) &nbsp; **SQL** (Complex queries, optimization, relational schema design)
-* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) &nbsp; **PostgreSQL** &nbsp;|&nbsp; ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) &nbsp; **SQLite** &nbsp;|&nbsp; ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) &nbsp; **SQL Server** &nbsp;|&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) &nbsp; **MongoDB**
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; **Python** (Pandas, NumPy, SciPy, Matplotlib, Seaborn, R)
+* ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) &nbsp; **SQL** (PostgreSQL, SQLite, SQL Server, MongoDB)
 
-### 📊 **Data Science & Machine Learning**
-* **Methodologies:** Supervised & Unsupervised Machine Learning, Predictive Modeling, Survival Analysis (Clinical & Cohort), Time Series Forecasting (Holt's Linear Models)
-* **Statistical Methods:** Exploratory Data Analysis (EDA), ETL Pipeline Development, Cohort Analysis, RFM Customer Segmentation, Customer Lifetime Value (CLV)
-* **Frameworks:** ![XGBoost](https://img.shields.io/badge/XGBoost-2C8E47?style=flat-square&logo=micro-strategy&logoColor=white) XGBoost, Scikit-Learn
+### 🧠 **Machine Learning & Deep Learning**
+* **Algorithms & Frameworks:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) TensorFlow, ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) PyTorch, ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) Scikit-Learn, ![XGBoost](https://img.shields.io/badge/XGBoost-2C8E47?style=flat-square&logo=micro-strategy&logoColor=white) XGBoost
+* **Deep Learning:** Neural Networks, CNNs, RNNs, LSTM models (applied to multi-channel EEG, ECG, GSR signals)
+* **Statistical Modeling:** Advanced Applied Statistics, Survival Analysis, Time Series Forecasting (Holt's Linear Models), GridSearchCV & RandomizedSearchCV (reducing tuning time by 75%)
 
-### 📈 **Business Intelligence & Dashboards**
-* ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) &nbsp; **Power BI** (High-fidelity operational KPI dashboards, DAX queries)
+### 📊 **Data Visualization & Business Intelligence**
+* ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) &nbsp; **Power BI** (Interactive KPI dashboards, DAX queries)
 * ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) &nbsp; **Tableau** (Cohort analysis maps, customer retention visualization)
-* ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) &nbsp; **Streamlit** (Interactive predictive web apps, risk profilers)
+* ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) &nbsp; **Streamlit** (Interactive predictive dashboards and web interfaces)
+* **Wrangling & Office:** Microsoft Excel
 
-### 🔧 **Development & AI Technologies**
-* **AI Tech:** ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white) LangChain, Retrieval-Augmented Generation (RAG), ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) FastAPI
-* **Environments:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git/GitHub, VS Code, Jupyter Notebook, SDLC Methodologies
+### 🔧 **Cloud, Tools & Modern Frameworks**
+* **Cloud & Big Data:** ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) Google Cloud Platform (GCP), Apache Hadoop
+* **AI Tech & Deployment:** ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white) LangChain, Retrieval-Augmented Generation (RAG), ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) FastAPI, ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Docker
+* **Development Environments:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git/GitHub, VS Code, Jupyter Notebook, SDLC Methodologies
 
 ---
 
@@ -64,6 +65,13 @@ I focus on **actionable analytics**: translating statistical outputs (like Holt'
 
 ## 📊 **Featured Projects**
 
+### 🧠 **Sleep Pattern Detection & Dream Mood Prediction**
+*Deep Learning Biosignal Classification & AI Insights*
+* **Deep Learning Pipeline:** Built a custom **CNN-LSTM model** to perform sleep stage classification and an **XGBoost classifier** for dream mood prediction using multi-channel EEG, ECG, and GSR signals.
+* **AI Backend Integration:** Developed a robust **FastAPI backend** utilizing secure authentication, relational database storage, and **Claude AI integration** to deliver personalized sleep quality insights.
+* **Streamlit App & Docker:** Shipped an interactive Streamlit dashboard allowing real-time predictions and PDF report generation, fully containerized and deployed using **Docker**.
+* *Tech Stack:* Python, TensorFlow, XGBoost, Scikit-Learn, FastAPI, Claude AI, Streamlit, Docker, Biosignal Processing (EEG/ECG/GSR)
+
 ### 📈 **Sales & Revenue Performance Analysis**
 *Custom ETL & Forecasting Platform*
 * **ETL Pipeline:** Built a robust Python-SQL ETL pipeline to process and sanitize **100k+ transaction records** in SQLite, facilitating YoY sales metrics and customer cohort retention models.
@@ -78,16 +86,27 @@ I focus on **actionable analytics**: translating statistical outputs (like Holt'
 * **Survival Analysis:** Developed a Streamlit analytics dashboard comparing treatment effectiveness across 12 distinct patient segments using survival curves to guide clinical decision-making.
 * *Tech Stack:* Python, Pandas, PostgreSQL, XGBoost, Streamlit, Survival Analysis
 
+### 💼 **HR Salary Predictor & Analytics Dashboard**
+*Machine Learning Regression & Operations Reporting*
+* **Data Sanitization:** Cleaned and processed **200K+ payroll records**, removing duplicate, outlier, and inconsistent entries to improve data quality and regression model reliability.
+* **Model Optimization:** Built and compared 5 regression models, achieving a **0.54 R² score** with Lasso Regression. Implemented **GridSearchCV** and **RandomizedSearchCV** to speed up hyperparameter tuning cycles by **75%**.
+* **Interactive Tool:** Built an interactive Streamlit dashboard for real-time salary prediction, operational KPI tracking, and payroll visualization to support data-driven HR decision-making.
+* *Tech Stack:* Python, Pandas, Scikit-Learn, Matplotlib, Streamlit, GridSearchCV, Regression Models
+
 ---
 
 ## 📜 **Awards & Certifications**
 
+* 🏆 **TCSion HR Salary Dashboard Certificate (2024)**
+  * *Focus:* Building end-to-end data pipelines, predictive salary modeling, and HR analytics dashboards.
+* 🏆 **TCSion Statistics using R and Python Certificate (2024)**
+  * *Focus:* Statistical modeling, probability distributions, hypothesis testing, and hands-on data analysis using R and Python.
 * 🏆 **TCSion Data Analytics & Reporting Professional Certificate (2025)**
-  * *Focus:* Parsing high-volume structured/unstructured datasets and creating analytical business reporting models.
+  * *Focus:* Ingestion and parsing of high-volume structured/unstructured datasets and creating analytical business reporting models.
 * 🏆 **Deloitte Data Analysis Certificate (2025)**
-  * *Focus:* Advanced curriculum targeting business problem-solving and structured analytics techniques on corporate operations.
+  * *Focus:* Business problem-solving, structured analytics techniques, and operational reporting on corporate processes.
 * 🏆 **Code Alpha Data Analytics Certificate (2025)**
-  * *Focus:* Deep-dive hands-on instruction in data cleaning, exploratory data analysis (EDA), and interactive visualization dashboards.
+  * *Focus:* Hands-on curriculum targeting data cleaning, exploratory data analysis (EDA), and interactive visualization dashboards.
 
 ---
 
@@ -96,7 +115,7 @@ I focus on **actionable analytics**: translating statistical outputs (like Holt'
 ### **Bachelor's Degree in Data Science Engineering**
 **Teerthanker Mahaveer University, Moradabad** | *Class of 2026*
 * 📈 **Academic Record:** Cumulative Grade Point Average (CGPA) of **8.0 / 10.0**
-* 📚 **Core Coursework:** Machine Learning, Database Management Systems (DBMS), Advanced Applied Statistics, Big Data Analytics, Python Software Development
+* 📚 **Core Coursework:** Machine Learning, Database Management Systems (DBMS), Deep Learning, Advanced Applied Statistics, Big Data Analytics, Python Software Development
 
 ---
 
@@ -107,15 +126,16 @@ def recruit_shashank():
     candidate = {
         "roles": ["Data Scientist", "Data Analyst"],
         "technical_stack": {
-            "programming": ["Python", "SQL"],
-            "databases": ["PostgreSQL", "SQLite", "MongoDB"],
-            "analytics_ml": ["XGBoost", "Scikit-Learn", "Survival Analysis", "Forecasting"],
+            "programming": ["Python", "SQL", "R"],
+            "deep_learning": ["TensorFlow", "PyTorch", "CNNs", "RNNs", "LSTMs"],
+            "machine_learning": ["XGBoost", "Scikit-Learn", "Regression", "Survival Analysis"],
+            "databases_cloud": ["PostgreSQL", "SQLite", "MongoDB", "GCP", "Hadoop"],
             "bi_tools": ["Power BI", "Tableau", "Streamlit"]
         },
         "core_strengths": [
-            "Actionable Insight Generation",
             "End-to-End ETL Pipelines", 
-            "Predictive Modeling & ML"
+            "Deep Learning & Advanced ML Modeling",
+            "Actionable Insights & Dynamic BI Dashboards"
         ],
         "business_value": "Transforming unstructured raw data into clear, margin-driving decision paths."
     }
