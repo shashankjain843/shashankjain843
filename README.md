@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-jain-a81a69218/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realshashankjain@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91--7878927128-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+917878927128)
+[![Phone](https://img.shields.io/badge/Phone-+91--7878921728-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+917878927128)
 
 ---
 
